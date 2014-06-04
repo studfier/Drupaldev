@@ -1,0 +1,3 @@
+name = Menu Magic
+description = An example hook menu module to create a page and insert menu.
+core = 7.x
