@@ -1,0 +1,8 @@
+<?php
+/*
+ *Implements hook_menu.
+ */
+
+  function menu_magic_menu(){
+    
+  };
